@@ -439,7 +439,7 @@ position = Vector2(0, -32)
 sprite_frames = SubResource("SpriteFrames_6spx8")
 animation = &"move"
 autoplay = "move"
-frame_progress = 0.712522
+frame_progress = 0.301697
 
 [node name="Killzone" parent="." instance=ExtResource("2_r4pdx")]
 position = Vector2(-63, -28)
